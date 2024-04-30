@@ -13,7 +13,12 @@
 
 **But I've worked with many other technologies**
 
----
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=martinivoviv&" alt="martinivoviv" /></p>
-<img src="https://komarev.com/ghpvc/?username=martinivoviv&label=Profile%20views&color=0e75b6&style=flat" alt="martinivoviv" />
+
+<br />
+<!-- <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=martinivoviv&" alt="martinivoviv" /></p> -->
+<div align="center">
+<a href="https://github.com/martinIvovIv">
+  <img src="https://komarev.com/ghpvc/?username=martinivoviv&label=Profile%20views&color=0e75b6&style=flat" alt="martinivoviv" />
+</a>
+</div>
