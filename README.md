@@ -1,6 +1,7 @@
 ## Hello, welcome to my Github  :relaxed:
 #### I'm a fullstack developer who loves geeking about technology ! 
 #### Feel free to contact me on my linkedIn:  <a href="https://linkedin.com/in/martinivoviv" target="blank"><img align="top" src="https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&logo=Linkedin&logoColor=white" alt="martinivoviv linkedIn" /></a>
+#### or use the contact form on my website: <a href="https://www.martinivoviv.com/" target="blank">https://www.martinivoviv.com/</a>
 
 ---
 
